@@ -1,0 +1,6 @@
+{
+  "name": "Decker",
+  "description": "Academic image note-organizer built for students to sequence and search whiteboard snaps, screenshots, and lecture slides with optional OCR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
